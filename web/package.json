@@ -1,9 +1,0 @@
-{
-    "dependencies": {
-      "express": "*",
-      "node-fetch": "2.7.0"
-    },
-    "scripts": {
-      "start": "node index.js"
-    }
-  }
